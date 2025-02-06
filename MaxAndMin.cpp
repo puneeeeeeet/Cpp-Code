@@ -13,8 +13,6 @@ void MaxAndMin(int arr[], int sz){
            
     }
      swap(arr[max],arr[min]);
-        
-    
 }
 
 int main(){
